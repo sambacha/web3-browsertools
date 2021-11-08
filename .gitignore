@@ -1,0 +1,11 @@
+node_modules/
+.nyc_output/
+coverage/
+
+dist*
+npm-debug.log
+.DS_store
+build/
+dist/
+*.tar.gz
+
