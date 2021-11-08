@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "useDApp DevTools",
-  "description": "Developer tools for useDApp",
-  "version": "1.0",
-  "homepage_url": "https://github.com/ethworks/usedapp",
+  "name": "web3 DevTools",
+  "description": "Developer tools for web3",
+  "version": "1.0.0",
+  "homepage_url": "https://github.com/sambacha/web3devtools",
   "permissions": ["storage", "http://*/*", "https://*/*", "<all_urls>"],
   "icons": {
     "16": "icons/icon.svg",
@@ -15,7 +15,7 @@
   },
   "browser_action": {
     "default_icon": "icons/icon-inactive.svg",
-    "default_title": "useDApp DevTools",
+    "default_title": "Web3 DevTools",
     "default_popup": "popup/popup-inactive.html"
   },
   "devtools_page": "devtools.html",
